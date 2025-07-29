@@ -1,0 +1,11 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-noise-cancellation
+requests
+python-dotenv
+pydantic-ai-slim[openai,mcp]
+livekit-agents[tavus]~=1.0
+tzdata
+flask[async]
+flask
+flask-cors
